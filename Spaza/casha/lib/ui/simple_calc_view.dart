@@ -1,6 +1,7 @@
 import 'package:casha/cubits/simple_calc/simple_calc_cubit.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+//import 'package:spazaattempt/login_view.dart';
 
 class SimpleCalcView extends StatelessWidget {
   final TextEditingController costController = TextEditingController(text: '25.50');
